@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info version="3.5.2" devversion="3.5.2">
+	<main langversion="0" langlink="">
+		<forge>
+			<version superversion="1.5.1" version="3.5.0" downloadlink="http://adf.ly/LV5oU">
+				The Api is needed for all modules
+			</version>
+			<version superversion="1.5.2" version="3.5.2" downloadlink="http://adf.ly/PBNK0">
+				The new Api for PowerCraft 1.5.2
+			</version>
+			<devversion superversion="1.5.2" version="3.5.2Pre4" downloadlink="https://www.dropbox.com/s/7ztc805riac4aoa/PowerCraft-Api_3.5.2_Forge_Pre.zip?dl=1">
+				The Api is needed for all modules
+			</devversion>
+		</forge>
+		<modloader>
+			<version superversion="1.5.1" version="3.5.0" downloadlink="http://adf.ly/LV5oW">
+				The Api is needed for all modules
+			</version>
+			<version superversion="1.5.2" version="3.5.2" downloadlink="http://adf.ly/PBNK1">
+				The new Api for PowerCraft 1.5.2
+			</version>
+		</modloader>
+	</main>
+	<module modulename="Core" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5oY">
+			Core for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNK4">
+			Core for Api 3.5.2 and Minecraft 1.5.2
+			Craftingtool remade.
+			Press R to see the Recipes
+		</version>
+	</module>
+	<module modulename="Checkpoints" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5oa">
+			Checkpoints for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNK3">
+			Checkpoints for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Deco" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5ob">
+			Deco for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNK5">
+			Deco for Api 3.5.2 and Minecraft 1.5.2
+			Now with more chimneys.
+		</version>
+	</module>
+	<module modulename="Hologram" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5oc">
+			Hologram for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNK6">
+			Hologram for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="ItemStorage" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5od">
+			ItemStorage for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://github.com/dannikinfo/mineos_files/powercraft-api-0.0.2A.jar">
+			ItemStorage for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Light" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5oe">
+			Light for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNK9">
+			Light for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Logic" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5og">
+			Logic for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKA">
+			Logic for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Machines" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5oh">
+			Machines for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKB">
+			Machines for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Mobile" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5oi">
+			Mobile for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKC">
+			Mobile for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Net" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5ok">
+			Net for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKD">
+			Net for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Teleport" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5ol">
+			Teleport for Minecraft 1.5.1
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKE">
+			Teleport for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Transport" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5om">
+			Bugfixes
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKF">
+			Transport for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Weasel" langversion="0" langlink="">
+		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5on">
+			Bugfixes
+		</version>
+		<version superversion="3.5.2" version="1.1.1" downloadlink="http://adf.ly/PBNKH">
+			Weasel for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<pack packname="All">
+		<childmodule>Core</childmodule>
+		<childmodule>Checkpoints</childmodule>
+		<childmodule>Deco</childmodule>
+		<childmodule>Hologram</childmodule>
+		<childmodule>ItemStorage</childmodule>
+		<childmodule>Light</childmodule>
+		<childmodule>Logic</childmodule>
+		<childmodule>Machines</childmodule>
+		<childmodule>Mobile</childmodule>
+		<childmodule>Net</childmodule>
+		<childmodule>Teleport</childmodule>
+		<childmodule>Transport</childmodule>
+		<childmodule>Weasel</childmodule>
+		<version superversion="3.5.0" version="3.5.0" downloadlink="http://adf.ly/LV5oX">
+			A pack with all modules
+		</version>
+		<version superversion="3.5.2" version="3.5.2" downloadlink="http://adf.ly/PBNK2">
+			A pack with all modules
+		</version>
+		<devversion superversion="1.5.2" version="3.5.2Pre4" downloadlink="https://www.dropbox.com/s/0a5mkjzjkot4o96/PowerCraft-Pack_3.5.2_Pre.zip?dl=1">
+			A pack with all modules
+		</devversion>
+	</pack>
+</Info>
