@@ -60,7 +60,7 @@
 		<version superversion="3.5.0" version="1.1.0" downloadlink="http://adf.ly/LV5od">
 			ItemStorage for Minecraft 1.5.1
 		</version>
-		<version superversion="3.5.2" version="1.1.1" downloadlink="http://github.com/dannikinfo/mineos_files/powercraft-api-0.0.2A.jar">
+		<version superversion="3.5.2" version="1.1.1" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/powercraft-api-0.0.2A.jar?raw=true">
 			ItemStorage for Api 3.5.2 and Minecraft 1.5.2
 		</version>
 	</module>
