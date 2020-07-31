@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+    <Resource module="Api" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/api.zip</Resource>
+    <Resource module="Core" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/core.zip</Resource>
+    <Resource module="Deco" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/deco.zip</Resource>
+    <Resource module="Hologram" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/hologram.zip</Resource>
+    <Resource module="Light" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/light.zip</Resource>
+    <Resource module="Logic" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/logic.zip</Resource>
+    <Resource module="Machines" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/machine.zip</Resource>
+    <Resource module="Mobile" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/mobile.zip</Resource>
+    <Resource module="Net" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/net.zip</Resource>
+    <Resource module="Storage" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/storage.zip</Resource>
+    <Resource module="Teleporter" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/teleport.zip</Resource>
+    <Resource module="Transport" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets/transport.zip</Resource>
+</Info>

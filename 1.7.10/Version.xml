@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info version="0.1.0A" devversion="0.1.0A">
+	<main langversion="0" langlink="">
+		<forge>
+			<version superversion="1.7.10" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/1.7.10/release/powercraft-api-0.0.2A.jar?raw=true">
+				The new Api for PowerCraft 1.5.2
+			</version>
+		</forge>
+	</main>
+	<module modulename="Core" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-core-0.0.2A.jar?raw=true">
+			Core for Api 3.5.2 and Minecraft 1.5.2
+			Craftingtool remade.
+			Press R to see the Recipes
+		</version>
+	</module>
+	<module modulename="Deco" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-deco-0.0.2A.jar?raw=true">
+			Deco for Api 3.5.2 and Minecraft 1.5.2
+			Now with more chimneys.
+		</version>
+	</module>
+	<module modulename="Hologram" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-hologram-0.0.2A.jar?raw=true">
+			Hologram for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Storage" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-storage-0.0.2A.jar?raw=true">
+			ItemStorage for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Light" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-light-0.0.2A.jar?raw=true">
+			Light for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Logic" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-logic-0.0.2A.jar?raw=true">
+			Logic for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Machines" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-machines-0.0.2A.jar?raw=true">
+			Machines for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Mobile" langversion="0" langlink="">
+		<version superversion="3.5.2" version="0.0.1A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-mobile-0.0.1A.jar?raw=true">
+			Mobile for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Net" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-net-0.0.2A.jar?raw=true">
+			Net for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Teleport" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-teleport-0.0.2A.jar?raw=true">
+			Teleport for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<module modulename="Transport" langversion="0" langlink="">
+		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-transport-0.0.2A.jar?raw=true">
+			Transport for Api 3.5.2 and Minecraft 1.5.2
+		</version>
+	</module>
+	<pack packname="All">
+		<childmodule>Core</childmodule>
+		<childmodule>Deco</childmodule>
+		<childmodule>Hologram</childmodule>
+		<childmodule>ItemStorage</childmodule>
+		<childmodule>Light</childmodule>
+		<childmodule>Logic</childmodule>
+		<childmodule>Machines</childmodule>
+		<childmodule>Mobile</childmodule>
+		<childmodule>Net</childmodule>
+		<childmodule>Teleport</childmodule>
+		<childmodule>Transport</childmodule>
+		<version superversion="0.1.0A" version="0.1.0A">
+			A pack with all modules
+		</version>
+	</pack>
+</Info>
