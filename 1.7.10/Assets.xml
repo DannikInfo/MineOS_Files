@@ -10,6 +10,6 @@
     <Resource module="Mobile" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets</Resource>
     <Resource module="Net" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets</Resource>
     <Resource module="Storage" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets</Resource>
-    <Resource module="Teleporter" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets</Resource>
+    <Resource module="Teleport" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets</Resource>
     <Resource module="Transport" version="1.0">https://raw.githubusercontent.com/DannikInfo/MineOS_Files/master/1.7.10/Assets</Resource>
 </Info>
