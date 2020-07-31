@@ -1,0 +1,15 @@
+{
+	"module" : "Mobile",
+	"files" : [
+		"/Mobile/miner_base.png",
+		"/Mobile/miner_overlay_1.png",
+		"/Mobile/miner_overlay_2.png",
+		"/Mobile/miner_overlay_3.png",
+		"/Mobile/miner_overlay_4.png",
+		"/Mobile/miner_overlay_5.png",
+		"/Mobile/miner_overlay_6.png",
+		"/Mobile/miner_overlay_7.png",
+		"/Mobile/miner_overlay_8.png",
+		"/Mobile/miner_overlay_keyboard.png"
+	]
+}
