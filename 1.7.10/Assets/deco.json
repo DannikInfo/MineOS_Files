@@ -1,0 +1,10 @@
+{
+	"module" : "Deco",
+	"files" : [
+		"/Deco/block_deco.png",
+		"/blocks/Deco/fence.png",
+		"/blocks/Deco/ironframe.png",
+		"/blocks/Deco/ironplate.png",
+		"/blocks/Deco/redstonestorage.png"
+	]
+}

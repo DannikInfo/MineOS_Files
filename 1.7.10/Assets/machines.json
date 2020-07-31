@@ -1,0 +1,18 @@
+{
+	"module" : "Machines",
+	"files" : [
+		"/Machines/fisher.png",
+		"/blocks/Machines/builder_front.png",
+		"/blocks/Machines/harvester_back.png",
+		"/blocks/Machines/harvester_front.png",
+		"/blocks/Machines/replacer_side.png",
+		"/blocks/Machines/roaster_down.png",
+		"/blocks/Machines/roaster_side.png",
+		"/blocks/Machines/roaster_top.png",
+		"/blocks/Machines/side.png",
+		"/blocks/Machines/transmutabox.png",
+		"/blocks/Machines/workbench_front.png",
+		"/blocks/Machines/workbench_top.png",
+		"/blocks/Machines/xpbank.png"
+	]
+}
