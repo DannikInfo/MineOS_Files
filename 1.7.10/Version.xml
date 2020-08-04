@@ -9,14 +9,14 @@
 	</main>
 	<module modulename="Core" langversion="0" langlink="">
 		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-core-0.0.2A.jar?raw=true">
-			Core for Api 3.5.2 and Minecraft 1.5.2<br>
-			Craftingtool remade.<br>
+			Core for Api 3.5.2 and Minecraft 1.5.2</br>
+			Craftingtool remade.</br>
 			Press R to see the Recipes
 		</version>
 	</module>
 	<module modulename="Deco" langversion="0" langlink="">
 		<version superversion="0.1.0A" version="0.0.2A" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-deco-0.0.2A.jar?raw=true">
-			Deco for Api 3.5.2 and Minecraft 1.5.2<br>
+			Deco for Api 3.5.2 and Minecraft 1.5.2</br>
 			Now with more chimneys.
 		</version>
 	</module>
