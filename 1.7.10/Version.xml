@@ -2,7 +2,7 @@
 <Info version="0.1.0B" devversion="0.1.0B">
 	<main langversion="0" langlink="">
 		<forge>
-			<version superversion="1.7.10" version="0.1.0B" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/1.7.10/release/powercraft-api-0.0.2A.jar?raw=true">
+			<version superversion="1.7.10" version="0.1.0B" downloadlink="https://github.com/DannikInfo/MineOS_Files/blob/master/1.7.10/release/powercraft-api-0.0.2A.jar?raw=true">
 				The new Api for PowerCraft 1.5.2
 			</version>
 		</forge>
