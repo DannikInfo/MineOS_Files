@@ -1,8 +1,0 @@
-{
-	"module" : "Hologram",
-	"files" : [
-		"/Hologram/glasses.png",
-		"/items/Hologram/glasses.png",
-		"/blocks/Hologram/hologram.png"
-	]
-}
