@@ -69,7 +69,7 @@
 		<childmodule>Core</childmodule>
 		<childmodule>Deco</childmodule>
 		<childmodule>Hologram</childmodule>
-		<childmodule>ItemStorage</childmodule>
+		<childmodule>Storage</childmodule>
 		<childmodule>Light</childmodule>
 		<childmodule>Logic</childmodule>
 		<childmodule>Machines</childmodule>
