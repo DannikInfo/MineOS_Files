@@ -1,6 +1,8 @@
-# PowerCraft Maven, Latest - 0.1.0B
+# PowerCraft Maven
 
-### For use in Gradle
+## Latest - 0.1.0B
+
+### For use as dependency
 
 - https://raw.githubusercontent.com/PowerCraft/Maven/master/@MC_Version@/
 
